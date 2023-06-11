@@ -1,9 +1,12 @@
-import logo from './logo.svg';
+
 import './App.css';
+import TopNavbar from './components/TopNavbar';
+
 
 function App() {
   return (
     <div >
+      <TopNavbar/>
       
     </div>
   );
