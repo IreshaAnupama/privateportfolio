@@ -28,7 +28,7 @@ useEffect(()=> {
 },[])
 
     return (
-        <Navbar collapseOnSelect expand="lg" bg="dark" variant="dark" >
+        <Navbar collapseOnSelect expand="lg" bg="dark" variant="dark" alt="java Img" style={{fontSize: "20px"}}>
         <Container>
           
           <Navbar.Toggle aria-controls="responsive-navbar-nav" />
